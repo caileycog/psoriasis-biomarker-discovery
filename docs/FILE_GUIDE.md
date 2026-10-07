@@ -9,7 +9,7 @@ This page explains every file in the repository: what it is, where it comes from
 1. **Install R (≥ 4.3) and RStudio.**
 2. **Download the repository.** Either use the green **Code → Download ZIP** button on GitHub, or run:
    ```bash
-   git clone https://github.com/<caileycog>/psoriasis-biomarker-discovery.git
+   git clone https://github.com/caileycog/psoriasis-biomarker-discovery.git
    ```
 3. **Open `psoriasis-biomarker-discovery.Rproj`** in RStudio. This sets the working directory to the repository root, so every file path in the code resolves correctly.
 4. **Install the packages (once):**
